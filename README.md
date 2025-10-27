@@ -5,8 +5,8 @@
 - 💬 Sou TRAINEE em Gestão de pessoas na TITAN - Empresa Júnior de Engenharia de Computação na UFBA ...
 <div align="center">
   <a href="https://github.com/isacardosog">
-    <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api?username=isacardosog&show_icons=true&theme=tokyonight" alt="Isabela's GitHub stats"/>
-    <img height="180em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isacardosog&layout=compact&langs_count=7&theme=tokyonight" alt="Isabela's most used languages"/>
+    <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=isacardosog&show_icons=true&theme=tokyonight" alt="Isabela's GitHub stats"/>
+    <img height="180em" width="440em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isacardosog&layout=compact&langs_count=7&theme=tokyonight" alt="Isabela's most used languages"/>
   </a>
   <br/><br/>
   <p>Entre em contato:</p>
