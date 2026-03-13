@@ -1,7 +1,7 @@
 ### Olá, me chamo Isabela! 👋
 
 - 🔭 Estudante do B.I em Ciência e Tecnologia na UFBA - Universidade Federal da Bahia 
-- 🌱 Atualmente aprendendo HTML, CSS e Javascript.
+- 🌱 Atualmente aprendendo HTML, CSS, Javascript e Java.
 - 💬 Sou TRAINEE em Gestão de pessoas na TITAN - Empresa Júnior de Engenharia de Computação na UFBA.
 <div align="center">
   <a href="https://github.com/isacardosog">
